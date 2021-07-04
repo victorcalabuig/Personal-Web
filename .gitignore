@@ -4,3 +4,7 @@ __pycache__/
 
 # Mac OS related files
 .DS_Store
+
+
+# Sqlite3 databse file
+db.sqlite3
