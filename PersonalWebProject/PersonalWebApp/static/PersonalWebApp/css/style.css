@@ -1,0 +1,9 @@
+h3 subheader {
+  display: block;
+  font-size: 75%;
+  opacity: 0.75;
+}
+
+body {
+  background-color: white;
+}
